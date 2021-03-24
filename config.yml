@@ -1,0 +1,31 @@
+1:
+  nome_do_server: '&b&lyLobby'
+  tipo_do_server: '&bPublicos'
+  site_do_server: '&bwww.ylobby.xyz'
+  id_do_server: '&f1'
+2:
+  tab_do_server_cima: ' &bPlugin publico'
+  tab_do_server_baixo: ' &bPlugin desenvolvido por: &6yReinaldy_'
+3:
+  ceo: ' &6[CEO] '
+  gerente: ' &4[GERENTE] '
+  admin: ' &c[ADMIN] '
+  mod: ' &2[MOD] '
+  ajd: ' &e[AJD] '
+  yt: ' &c[Y&fT] '
+  mvpplus: ' &b[MVP+] '
+  mvp: ' &6[MVP] '
+  vip: ' &a[VIP] '
+  membro: ' &7[MEMBRO] '
+4:
+  ceo_perms: 'tag.ceo'
+  gerente_perms: 'tag.gerente'
+  admin_perms: 'tag.admin'
+  mod_perms: 'tag.mod'
+  ajd_perms: 'tag.ajd'
+  yt_perms: 'tag.yt'
+  mvpplus_perms: 'tag.mvp+'
+  mvp_perms: 'tag.mvp'
+  vip_perms: 'tag.vip'
+  membro_perms: 'tag.membro'
+    

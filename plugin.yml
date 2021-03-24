@@ -1,0 +1,7 @@
+name: yLobby
+main: me.reinaldy.ylobby.Main
+version: 0.1
+author: [ yReinaldy_ ]
+commands:
+  fly:
+  
